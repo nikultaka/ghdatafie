@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>resources/views/Frontend/reports/details.blade.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>9</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/ghdatafile_laravel/resources/views/Admin/setting/setting.blade.php</file>
+            <file>file:/C:/xampp/htdocs/ghdatafile_laravel/resources/views/Frontend/infographics/infographics_info.blade.php</file>
+            <file>file:/C:/xampp/htdocs/ghdatafile_laravel/resources/views/Frontend/news/news_info.blade.php</file>
+            <file>file:/C:/xampp/htdocs/ghdatafile_laravel/public/js/Admin/site_setting.js</file>
+        </group>
+    </open-files>
+</project-private>
